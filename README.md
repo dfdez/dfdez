@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **bipi**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dfdez](https://github.com/dfdez)
-
 - 💬 Ask me about **Vue, JavaScript, Node, Linux, Keyboards...**
 
 - 📫 How to reach me **danifer.inbox@gmail.com**
