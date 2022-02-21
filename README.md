@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-- 🔭 I’m currently working on **bipi**
+- 🔭 I’m currently working on **fever**
 
 - 💬 Ask me about **Vue, JavaScript, Node, Linux, Keyboards...**
 
