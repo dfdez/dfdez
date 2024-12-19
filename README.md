@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **fever**
 
-- 💬 Ask me about **Vue, JavaScript, Node, Linux, Keyboards...**
+- 💬 Ask me about **JavaScript, Linux, Astro, AWS, Keyboards...**
 
 - 📫 How to reach me **danifer.inbox@gmail.com**
 
